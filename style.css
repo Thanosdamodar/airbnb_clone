@@ -1,0 +1,182 @@
+.nav{
+  position:static;
+}
+.nav-par{
+  margin: 0px 75px;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 18px;
+}
+.nav-cat{
+  justify-content:space-between;
+  margin-left: 180px;
+  height: 70%;
+  width: 350px;
+  border: 1px solid lightgray;
+  border-radius: 70px;
+  padding: 0px 0px 0px 20px;
+  display: flex;
+  align-items: center;
+}
+.anywhere{
+  padding: 0px 10px 0px 0px;
+}
+.anyweek{
+  padding: 0px 10px 0px 10px;
+  border-width:0px 1px;
+  border-style: solid;
+  border-color: lightgray;
+}
+.addguest{
+  padding: 0px 10px;
+}
+.search{
+  height: 90%;
+  border: none;
+  align-items: center;
+  margin-right: 3px;
+}
+.s-img{
+  height: 100%;
+
+}
+.nav-set{
+  justify-content: space-between;
+  width:300px;
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+.globe{
+  height: 50%;
+}
+.set-ex{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50%;
+  width: 100px;
+  border: 1px solid lightgray;
+  border-radius: 50px;
+}
+.more{
+  height: 50%;
+  margin-left: 15px;
+}
+.profile{
+  height: 80%;
+  margin-right: 15px;
+}
+.dp{
+  height: 100%;
+}
+.area{
+  margin: 20px 75px;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+}
+.a-name{
+  height: 50%;
+  text-align: center;
+}
+.a-icon{
+  justify-content:center;
+  height: 70%;
+}
+.tlprc{
+  width: 500px;
+  margin: 20px auto;
+  border: 1px solid lightgray;
+  border-radius: 12px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+.dtp{
+  height: 20px;
+  font-size: 20px;
+  border-right: 1px solid lightgray;
+  padding: 0px 15px 0px 0px;
+}
+.in-fee{
+  color: lightgray;
+  padding: 0px 0px 0px 15px
+}
+.slide{
+  padding-left:75px;
+  height: 40px;
+  width: 60px;
+  justify-content: flex-end;
+}
+.sl-img{
+  width: 100%;
+  height: 100%;
+
+}
+.plc{
+  margin: 20px 75px 250px;
+  height: 150px;
+  display: flex;
+  justify-content: space-between;
+}
+.plc-card{
+  width: 275px;
+  border: 0px none;
+  border-radius: 12px;
+}
+.img-area{
+  height: 250px;
+  border: 0px none;
+  width: 100%;
+  border-radius: 12px;
+}
+.like{
+  position: relative;
+  top:0px;
+  left:215px;
+}
+.hrt{
+  position: absolute;
+  height: 30px;
+  top:0px;
+
+  padding: 3px 10px;
+  margin: 10px;
+}
+.card-img{
+  height: 100%;
+  width: 100%;
+  border-radius: 12px;
+}
+.card-head{
+  margin-top: 20px;
+}
+.price{
+  margin-top: 10px;
+}
+.map{
+  width: 150px;
+  position: fixed;
+  bottom: 30px;
+  left:50%;
+  background-color: #222222;
+  display: flex;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+}
+.text{
+  padding-right: 3px;
+  font-size: 18px;
+  border-right:  1px solid white;
+}
+.m-icon{
+  padding-left: 3px;
+}
+.icon{
+  border-radius:10px
+}
